@@ -1,6 +1,5 @@
 <template>
-<rsp-game-vue></rsp-game-vue>
- 
+  <rsp-game-vue></rsp-game-vue> 
 </template>
 
 <script>
